@@ -80,6 +80,6 @@ class InstaBot:
 
 
 # Login: Username and Password
-b = InstaBot('lauraescale996@gmail.com', 'dfr@YPK9jz#t')
+b = InstaBot('', '')
 b.login()
 b.follows()
